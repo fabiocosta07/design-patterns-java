@@ -1,5 +1,9 @@
 package designPatterns.solidPrinciples.liskovSubstitution;
 
+//LSP - Liskov Substitution Principal
+// You should be able to substitute a subclass for a base class, or the other way around
+// without breaking anything.
+
 public class App {
     public static void main(String [] args){
         Rectangle rectangle = new Rectangle(5,4);

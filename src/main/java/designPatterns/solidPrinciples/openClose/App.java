@@ -7,6 +7,9 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Stream;
 
+//OCP Open Close Principle + Specification Design pattern
+// classes should be open for extension and closed for modification
+
 public class App {
 
     public static void main(String[] args) {
