@@ -3,7 +3,7 @@
  */
 package designPatterns;
 
-import designPatterns.solidPrinciples.App;
+import designPatterns.solidPrinciples.openClose.App;
 import org.testng.annotations.*;
 
 public class AppTest {
