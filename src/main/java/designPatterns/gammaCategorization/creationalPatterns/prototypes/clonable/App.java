@@ -1,4 +1,4 @@
-package designPatterns.gammaCategorization.creationalPatterns.prototypes;
+package designPatterns.gammaCategorization.creationalPatterns.prototypes.clonable;
 
 import java.util.Arrays;
 
